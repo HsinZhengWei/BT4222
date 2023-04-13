@@ -51,3 +51,9 @@ Each model is separated to its individual notebook. The inputs are training_data
 	- Notebook: ../Models/xgboost_train.ipynb
 4. LSTM
 	- Notebook: ../Models/lstm_train.ipynb
+## Authors
+- Brandon Angga - [brandonmanggo](https://github.com/brandonmanggo)
+- Hsin Zheng Wei - [HsinZhengWei](https://github.com/HsinZhengWei)
+- Joshua tan Zhi Yi - [joshualah](https://github.com/joshualah)
+- Lee Jie Yi Estella - [eseutella](https://github.com/eseutella)
+- Luah Jun Yang - [LuahJunYang](https://github.com/LuahJunYang)
