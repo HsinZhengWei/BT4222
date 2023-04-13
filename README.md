@@ -16,7 +16,7 @@ The social media and financial data collected spans 4 years, from 2019 to 2022. 
 These instructions will get you a copy of the project up and running on your local machine. This is a runthrough on what each of the folders in this respository contains.
 
 ### Download the Files
-1. The zipped version of our data files are available for download as some of the datasets such as extracted datasets are too big to publish on github. TO BE ADDED
+1. The zipped version of our data files are available for download as some of the datasets such as extracted datasets are too big to publish on github. The twitter data in ../TwitterData contains subset of full data used.
 
 ### Installing the required packages
  Use requirements.txt to install the correct versions of the required Python libraries to run the Python code in your new Python environment.
