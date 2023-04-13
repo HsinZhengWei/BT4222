@@ -10,8 +10,6 @@ The social media and financial data collected spans 4 years, from 2019 to 2022. 
 3. $AAPL's Opening, Closing, Low, High prices and Trading volume and S&P500's Closing price.
 4. Return on Equity(ROE), Debt to Equity, and other financial data using the Alpha Vantage API.
 5. US GDP data from Federal Reserve Economic Data (FRED) and US Consumer Price Index from the US Bureau of Labor Statistics (BLS) API.
-=======
-The stock market can be unpredictable and volatile, with prices fluctuating rapidly in response to various factors like economic news and investor sentiment. Traditionally, investors have relied on technical analysis to make investment decisions, but these methods have their limitations and may not always provide accurate predictions. They do not take into account the impact that social media brings to investor sentiment. Hence this project hopes to integrate social media insights to better 
 
 ## Running the Codes
 ### Data Extraction and Pre-Processing
