@@ -11,6 +11,24 @@ The social media and financial data collected spans 4 years, from 2019 to 2022. 
 4. Return on Equity(ROE), Debt to Equity, and other financial data using the Alpha Vantage API.
 5. US GDP data from Federal Reserve Economic Data (FRED) and US Consumer Price Index from the US Bureau of Labor Statistics (BLS) API.
 
+## Setting Up
+
+These instructions will get you a copy of the project up and running on your local machine. This is a runthrough on what each of the folders in this respository contains.
+
+### Download the Files
+1. The zipped version of our data files are available for download as some of the datasets such as extracted datasets are too big to publish on github. TO BE ADDED
+
+### Installing the required packages
+ Use requirements.txt to install the correct versions of the required Python libraries to run the Python code in your new Python environment.
+ ```
+ pip install -r requirements.txt
+ ```
+ 2. Download the following lexicons which we used to perform NLP. Run the code chunks in your python notebook / script.
+ ```
+ nltk.download('stopwords')
+ nltk.download('vader_lexicon')
+ ```
+
 ## Running the Codes
 ### Data Extraction and Pre-Processing
 1. Twitter Tweets
