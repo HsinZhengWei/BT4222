@@ -17,6 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Download the Files
 1. The zipped version of our data files are available for download as some of the datasets such as extracted datasets are too big to publish on github. The twitter data in ../TwitterData contains subset of full data used.
+2. You can use this [google drive link](https://drive.google.com/file/d/15r3S3bItxn3jL0MFvCiMrsyUln2QU-GS/view?usp=sharing) to obtain the full project with full codes instead.
 
 ### Installing the required packages
  Use requirements.txt to install the correct versions of the required Python libraries to run the Python code in your new Python environment.
