@@ -29,6 +29,15 @@ These instructions will get you a copy of the project up and running on your loc
  nltk.download('stopwords')
  nltk.download('vader_lexicon')
  ```
+### Installing PRAW
+1. Install PRAW by running the command pip install praw.
+2. Create a Reddit Application at the Authorized Applications (https://www.reddit.com/prefs/apps) page. Click "Are you a developer? create an app…" at the bottom on the screen.
+3. Fill in your application details. In Redirect URL, input http://localhost:8080.
+4. After successfully creating an app, take down your client_id, secret and user_agent.
+5. Create a read-only PRAW bot by inputting your client_id, secret and user_agent into the following code:
+acc = praw.Reddit(client_id="",              # your client id
+                                    client_secret="",      # your client secret
+                                    user_agent="")        # your user agent
 
 ## Running the Codes
 ### Data Extraction and Pre-Processing
